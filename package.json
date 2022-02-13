@@ -1,0 +1,25 @@
+{
+  "name": "Movie_Api",
+  "version": "1.0.0",
+  "description": "API endpoints to fetch data, post and delete data",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon movies.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ken-Sarowiwa/Movie_Api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ken-Sarowiwa/Movie_Api/issues"
+  },
+  "homepage": "https://github.com/Ken-Sarowiwa/Movie_Api#readme",
+  "dependencies": {
+    "express": "^4.17.2",
+    "joi": "^17.6.0",
+    "nodemon": "^2.0.15"
+  }
+}
